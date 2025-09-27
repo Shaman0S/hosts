@@ -19,3 +19,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 prd1.session.centech.glulive.com
 0.0.0.0 analytics-tcp.mtgglobals.com
 0.0.0.0 vg-aws-cdn-us-east-1b-hb-bid-feedback.mtgglobals.com
+0.0.0.0 gw1.mediation.unity3d.com
+0.0.0.0 gateway-b.offerwall.unity3d.com

@@ -1,5 +1,3 @@
-0.0.0.0 prd1.session.centech.glulive.com
-0.0.0.0 analytics-tcp.mtgglobals.com
-0.0.0.0 vg-aws-cdn-us-east-1b-hb-bid-feedback.mtgglobals.com
-0.0.0.0 gw1.mediation.unity3d.com
-0.0.0.0 gateway-b.offerwall.unity3d.com
+127.0.0.1 pl-point.mtgglobals.com
+127.0.0.1 vg-ali-ad-mof-sdk.mtgglobals.com
+127.0.0.1 vg-new-hb-bid-feedback.mtgglobals.com
